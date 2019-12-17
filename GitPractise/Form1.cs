@@ -16,5 +16,10 @@ namespace GitPractise
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("第一个功能");
+        }
     }
 }
